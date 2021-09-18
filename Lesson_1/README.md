@@ -45,4 +45,3 @@ A column used to uniquely identify the row in a table.
 
 An abbreviation for Structured Query Language. Standard SQL is governed by the ANSI standards committee, thus is called
 ANSI SQL.
-
