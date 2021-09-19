@@ -34,5 +34,5 @@ FROM customers
 ORDER BY cust_name;
 ```
 
-In above query the subquery is executed once for every customer retrieved. The `WHERE` condition must be in the format
-of `table_name.column_name` to avoid ambiguity .
+In above query the subquery is executed once for every customer retrieved. The `WHERE` condition must be in the fully
+qualified column name `table_name.column_name` to avoid ambiguity .
